@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manish Debnath 👋</h1>
 
 <p align="center">
-    &nbsp; 🛠️ Data Scientist | &nbsp; 👷🏻‍♂️ Ex. Senior Engineer (Mech.) &nbsp; | &nbsp; 🌍 From Agartala, Tripura
+    &nbsp; 🌐 Data Scientist | &nbsp; 👷🏻‍♂️ Ex. Senior Engineer (Mech.) &nbsp; | &nbsp; 🌍 From Agartala, Tripura
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="90" alt="Data Science Icon"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="90" alt="Data Dashboard Icon"/>
