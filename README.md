@@ -51,7 +51,7 @@
 - Surface area was positively correlated with price, but gains plateaued after a certain point.
 - Apartments had a higher price per square meter compared to standalone houses.
 - ✅ Results :
-- Ridge Regression reduced prediction error with MAE ~15,200.5 and better generalization than Linear Regression.
+- Ridge Regression reduced prediction error with MAE ~15,200 and better generalization than Linear Regression.
 - Prepared dashboard-ready data in Power BI.
  
  📊 [**Job Posting Analysis**](https://github.com/Manishdebnath99/job-posting-analysis)  
@@ -68,14 +68,14 @@
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
 ---
--📚 Currently Learning :
+## 📚 Currently Learning :
 - Deepening knowledge in Machine Learning and Deep Learning
 - Exploring Natural Language Processing (NLP) and Prompt Engineering
 - Building Real-World Data Science Projects
 - Practicing Advanced SQL and Statistical Techniques
 - Improving Dashboarding with Power BI
 ---
-🙏 Thanks for Visiting!
+## 🙏 Thanks for Visiting!
 If you found my work interesting or useful, feel free to connect or reach out — I'm always open to learning and collaboration!
 
 <h3 align="left">📫 Let's Connect</h3>
