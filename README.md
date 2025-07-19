@@ -2,16 +2,15 @@
 
 <p align="center">
     &nbsp; 🛠️ Data Scientist | &nbsp; 👷🏻‍♂️ Ex. Senior Engineer (Mech.) &nbsp; | &nbsp; 🌍 From Agartala, Tripura
-</p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="100" alt="Data Analysis Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2989/2989988.png" width="100" alt="Dashboard Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3833/3833927.png" width="100" alt="AI Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="100" alt="Machine Learning Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="90" alt="Data Science Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="90" alt="Data Dashboard Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3011/3011270.png" width="90" alt="AI Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2889/2889676.png" width="90" alt="Machine Learning Icon"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Exploring+the+world+of+DataScience;Exploring+the+world+of+MachineLearning;Visualizing+Business+Stories+with+Data.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Exploring+the+world+of+DataScience;Exploring+the+world+of+MachineLearning;Visualizing+Business+Stories+with+Data." alt="Typing Animation">
 </p>
 
 ### 👨‍💻ABOUT ME👨‍💻 
@@ -34,7 +33,6 @@
   <img src="https://img.shields.io/badge/SQL-darkblue?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power BI-yellow?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-purple?logo=tableau&logoColor=white" />
 </p>
 
 ---
