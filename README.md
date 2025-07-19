@@ -3,16 +3,16 @@
 <p align="center">
     &nbsp; 🌐 Data Scientist | &nbsp; 👷🏻‍♂️ Ex. Senior Engineer (Mech.) &nbsp; | &nbsp; 🌍 From Agartala, Tripura
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="70" alt="Data Scientist Icon" title="Data Science"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/3833/3833927.png" width="70" alt="AI Icon" title="Artificial Intelligence"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2989/2989988.png" width="70" alt="Business Analytics Icon" title="Business Analytics"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="85" alt="Data Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149742.png" width="85" alt="Analytics Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4206/4206330.png" width="85" alt="ML Brain Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="85" alt="Power BI Icon"/>
 </p>
 
 <p align="center">
-  <b><i>🔍 Uncovering Insights | 🤖 Building AI Solutions | 📈 Driving Business Impact</i></b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+DataScience;Exploring+the+world+of+MachineLearning;Visualizing+Business+Stories+with+Data." alt="Typing SVG">
 </p>
+
 ### 👨‍💻ABOUT ME👨‍💻 
 
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Analytics**
