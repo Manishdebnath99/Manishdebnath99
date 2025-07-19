@@ -72,8 +72,8 @@
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" width="100"/>
 
-- 📧 **Email:** [(manishdebnath81@gmail.com)]
-- 🔗 **LinkedIn:** [(https://www.linkedin.com/in/manish-debnath-09778a331/)]
+- 📧 **Email:** [manishdebnath81@gmail.com]
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/manish-debnath-09778a331/]
 ---
 
 > “The goal is to turn data into information, and information into insight.”
