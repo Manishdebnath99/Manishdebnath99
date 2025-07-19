@@ -43,16 +43,16 @@
 - 🔍 Objective: To build a regression model to accurately predict Mexico housing prices using location, surface area, and property type features.
 - 🛠️ Tools: Python, PowerBI
 - 🔄 Process :
-- Collected real estate data including price, location, area, and property type from Mexican housing listings.
-- Cleaned data by removing nulls, duplicates, and extreme outliers; engineered features like price_per_sqm.
-- Performed EDA using plots and correlation heatmaps to uncover key variables affecting price.
+  - Collected real estate data including price, location, area, and property type from Mexican housing listings.
+  - Cleaned data by removing nulls, duplicates, and extreme outliers; engineered features like price_per_sqm.
+  - Performed EDA using plots and correlation heatmaps to uncover key variables affecting price.
 - 💡 Insights :
-- Housing prices were significantly higher in capital cities and tourist areas.
-- Surface area was positively correlated with price, but gains plateaued after a certain point.
-- Apartments had a higher price per square meter compared to standalone houses.
+  - Housing prices were significantly higher in capital cities and tourist areas.
+  - Surface area was positively correlated with price, but gains plateaued after a certain point.
+  - Apartments had a higher price per square meter compared to standalone houses.
 - ✅ Results :
-- Ridge Regression reduced prediction error with MAE ~15,200 and better generalization than Linear Regression.
-- Prepared dashboard-ready data in Power BI.
+  - Ridge Regression reduced prediction error with MAE ~15,200 and better generalization than Linear Regression.
+  - Prepared dashboard-ready data in Power BI.
  
  📊 [**Job Posting Analysis**](https://github.com/Manishdebnath99/job-posting-analysis)  
 - 🔍 Objective: To explore job trends and skills demand in the data industry.
