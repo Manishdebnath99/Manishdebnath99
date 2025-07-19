@@ -67,13 +67,31 @@
   - Most Jobs were posted in **December-2021**.
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
+---
+📚 Currently Learning
+Deepening knowledge in Machine Learning and Deep Learning
+Exploring Natural Language Processing (NLP) and Prompt Engineering
+Building Real-World Data Science Projects
+Practicing Advanced SQL and Statistical Techniques
+Improving Dashboarding with Power BI
+---
+🙏 Thanks for Visiting!
+If you found my work interesting or useful, feel free to connect or reach out — I'm always open to learning and collaboration!
 
-### 📬 Let's Connect!
+<h3 align="left">📫 Let's Connect</h3>
 
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" width="100"/>
+<p align="left">
+  <a href="mailto:manishdebnath81@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manish-debnath-09778a331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Manishdebnath99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- 📧 **Email:** [manishdebnath81@gmail.com]
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/manish-debnath-09778a331/]
 ---
 
 > “The goal is to turn data into information, and information into insight.”
