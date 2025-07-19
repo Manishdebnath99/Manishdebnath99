@@ -68,12 +68,12 @@
   - Companies favored candidates with **real-world project exposure**.
 - ✅ Result: Provided strategic recommendations for learners and job seekers.
 ---
-📚 Currently Learning
-Deepening knowledge in Machine Learning and Deep Learning
-Exploring Natural Language Processing (NLP) and Prompt Engineering
-Building Real-World Data Science Projects
-Practicing Advanced SQL and Statistical Techniques
-Improving Dashboarding with Power BI
+-📚 Currently Learning :
+- Deepening knowledge in Machine Learning and Deep Learning
+- Exploring Natural Language Processing (NLP) and Prompt Engineering
+- Building Real-World Data Science Projects
+- Practicing Advanced SQL and Statistical Techniques
+- Improving Dashboarding with Power BI
 ---
 🙏 Thanks for Visiting!
 If you found my work interesting or useful, feel free to connect or reach out — I'm always open to learning and collaboration!
