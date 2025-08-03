@@ -16,7 +16,7 @@
 ### 👨‍💻ABOUT ME👨‍💻 
 
 - 🔍 Exploring the world of **Data Science**, **Machine Learning**, and **Business Analytics**
-- 💼 Ex-Senior Engineer(Mech) at **NEGG Project (PM GATI SHAKTI)** 
+- 💼 Ex-Senior Engineer(Mech) at **NEGG Project ( PM GATI SHAKTI )** 
 - 🎓 B.Tech in **Mechanical Engineering**
 - 💡 5⭐ in **SQL** on HackerRank | Real-World Impact | EDA Enthusiast
 - 📈 Passionate about transforming data into meaningful insights
