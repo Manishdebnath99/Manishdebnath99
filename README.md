@@ -3,8 +3,8 @@
 <p align="center">
     &nbsp; 🌐 Data Scientist | &nbsp; 👷🏻‍♂️ Ex. Senior Engineer (Mech.) &nbsp; | &nbsp; 🌍 From Agartala, Tripura
 <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="85" alt="Python Icon" />
   <img src="https://i.postimg.cc/QMz4ZqQZ/Whats-App-Image-2025-08-04-at-01-50-59-e75e2e31.jpg" width="85" alt="Profile Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4206/4206330.png" width="85" alt="ML Brain Icon"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="85" alt="Power BI Icon"/>
 </p>
 
