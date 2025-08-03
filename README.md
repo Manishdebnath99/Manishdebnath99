@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="85" alt="Python Data Icon" />
   <img src="https://i.postimg.cc/QMz4ZqQZ/Whats-App-Image-2025-08-04-at-01-50-59-e75e2e31.jpg" width="85" alt="Profile Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png" width="85" alt="Analytics Dashboard" />
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="85" alt="Power BI Icon"/>
 </p>
 
