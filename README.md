@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Power BI-yellow?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-blue?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-yellow?logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-purple?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-orange?logo=r&logoColor=white" />
 
