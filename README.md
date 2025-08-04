@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="85" alt="Python Data Icon" />
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="85" alt="Power BI Icon"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="85" alt="Python for Data Science" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="85" alt="Python Icon" />
 </p>
 
 <p align="center">
