@@ -41,6 +41,40 @@
 ---
 ## 📂 Featured Projects
 
+📊 [**Fraud Detection System**] [https://github.com/Manishdebnath99/Fraud-Detection]
+
+- 🔍 Objective: To analyze and detect fraudulent financial transactions using machine learning, with a focus on real-time prediction, interactive visualization, and explainability.
+
+- 🛠️ Tools: Python, Scikit-learn, Streamlit, Pandas, Seaborn, Joblib
+
+- 🔄 Process:
+
+    - Loaded and cleaned financial transaction data from Excel; checked missing values, types, and class imbalance.
+
+    - Engineered features such as balance differences and flagged suspicious patterns like zero balances post-transfer.
+
+    - Visualized fraud distribution by transaction type and time using Seaborn and Matplotlib.
+
+    - Built a classification pipeline with Logistic Regression (class_weight='balanced'), and evaluated using confusion matrix and classification report.
+
+    - Saved trained model with Joblib for deployment.
+
+-💡 Insights:
+
+   - Fraud was highly concentrated in specific transaction types with sharp balance changes.
+
+   - Feature engineering improved model precision and interpretability.
+
+   - Visual exploration helped uncover hidden patterns related to fraud triggers.
+
+- ✅ Results:
+
+   - Achieved ~94% accuracy with strong precision-recall balance for imbalanced fraud detection.
+
+   - Deployed a Streamlit web app for real-time fraud prediction and interactive data exploration.
+
+   - App allows users to upload new transaction data and visualize predictions instantly.
+
 
  📉 [**Mexico House Prices**](https://github.com/Manishdebnath99/mexico-house-price)
 - 🔍 Objective: To build a regression model to accurately predict Mexico housing prices using location, surface area, and property type features.
