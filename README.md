@@ -49,7 +49,7 @@
 
 - 🔄 Process:
 
-    - Loaded and cleaned financial transaction data from Excel; checked missing values, types, and class imbalance.
+    - Loaded and cleaned financial transaction data from kaggle; checked missing values, types, and class imbalance.
 
     - Engineered features such as balance differences and flagged suspicious patterns like zero balances post-transfer.
 
