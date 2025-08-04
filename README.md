@@ -59,7 +59,7 @@
 
     - Saved trained model with Joblib for deployment.
 
--💡 Insights:
+- 💡 Insights:
 
    - Fraud was highly concentrated in specific transaction types with sharp balance changes.
 
