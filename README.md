@@ -41,7 +41,7 @@
 ---
 ## 📂 Featured Projects
 
-📊 [**Fraud Detection System**] [https://github.com/Manishdebnath99/Fraud-Detection]
+📊 [**Fraud Detection**](https://github.com/Manishdebnath99/Fraud-Detection)
 
 - 🔍 Objective: To analyze and detect fraudulent financial transactions using machine learning, with a focus on real-time prediction, interactive visualization, and explainability.
 
