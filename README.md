@@ -4,7 +4,7 @@
     &nbsp; 🌐 Data Scientist | &nbsp; 👷🏻‍♂️ Ex. Senior Engineer (Mech.) &nbsp; | &nbsp; 🌍 From Agartala, Tripura
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="85" alt="Python Data Icon" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="85" alt="Python Data Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="85" alt="Python for Data Science" />
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="85" alt="Power BI Icon"/>
 </p>
 
